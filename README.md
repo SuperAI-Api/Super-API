@@ -77,6 +77,16 @@ docker-compose up -d
 docker-compose pull && docker-compose up -d
 ```
 
+# 交流群：
+> 点击链接加入群聊【Super-Api 交流群】：https://qm.qq.com/q/l3MOjJsANy
+
+<img src="https://github.com/user-attachments/assets/f5327086-85b9-4256-9a6b-0d372a849ad6" width="300" alt="super-api">
+
+
+# 赞助
+
+> https://afdian.com/a/Super-Api
+
 ## 1. 界面全面重构 🎨
 
 ### 1.1 整体优化 ✨
