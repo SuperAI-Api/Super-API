@@ -46,6 +46,12 @@ services:
       - REDIS_CONN_STRING=redis://redis
       - SESSION_SECRET=random_string  # 启动前必须手动修改此值为随机字符串
       - TZ=Asia/Shanghai
+      - ERROR_LOG_ENABLED=true # 是否启用错误日志记录
+    #      - TIKTOKEN_CACHE_DIR=./tiktoken_cache  # 如果需要使用tiktoken_cache，请取消注释
+    #      - SESSION_SECRET=random_string  # 多机部署时设置，必须修改这个随机字符串！！！！！！！
+    #      - NODE_TYPE=slave  # Uncomment for slave node in multi-node deployment
+    #      - SYNC_FREQUENCY=60  # Uncomment if regular database syncing is needed
+    #      - FRONTEND_BASE_URL=https://openai.justsong.cn  # Uncomment for multi-node deployment with front-end URL
 
     depends_on:
       - redis
