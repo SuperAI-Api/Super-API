@@ -2,7 +2,7 @@
 
 <img src="public/logo.png" width="100" height="100" alt="super-api">
 
-# [🥳 Super-API](https://api.cngov.top)
+# [🥳 Super-API](https://api-demo.zyox.top/)
 
 #### 🚀Super-API由new-api的基础上二次开发
 
