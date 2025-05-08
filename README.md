@@ -84,9 +84,9 @@ docker-compose pull && docker-compose up -d
 ```
 
 # 交流群：
-> 点击链接加入群聊【Super-Api 交流群】：https://qm.qq.com/q/l3MOjJsANy
+> 点击链接加入群聊【Super-API交流群】：https://qm.qq.com/q/B4yMp7ySvC
 
-<img src="https://github.com/user-attachments/assets/f5327086-85b9-4256-9a6b-0d372a849ad6" width="300" alt="super-api">
+<img src="https://github.com/user-attachments/assets/83c6ef42-5e75-433f-8cb8-d9faae03356e" width="300" alt="super-api">
 
 
 # 赞助
