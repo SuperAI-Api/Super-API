@@ -90,8 +90,9 @@ docker-compose pull && docker-compose up -d
 
 
 # 赞助
-![1d12d1b8bb6cda711ca80510ce2249f](https://github.com/user-attachments/assets/616b2a4a-8f5e-42b5-80f1-96c0f7cce0b8)
-![image](https://github.com/user-attachments/assets/14aee931-046a-40a0-af60-58003c14e819)
+<img src="https://github.com/user-attachments/assets/616b2a4a-8f5e-42b5-80f1-96c0f7cce0b8" style="width: 50%;" />
+
+<img src="https://github.com/user-attachments/assets/14aee931-046a-40a0-af60-58003c14e819" style="width: 50%;" />
 
 
 ## 1. 界面全面重构 🎨
